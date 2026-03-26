@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Welcome%20to%20gyutae's%20github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=120&text=Contact%20Me&fontSize=30)
