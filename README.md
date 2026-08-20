@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=0:121111,100:e42121&height=240&text=경상국립대%20멋사&animation=scaleIn&fontColor=e0d1d1&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=0:121111,100:e42121&height=240&text=김규태&animation=scaleIn&fontColor=e0d1d1&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 경상국립대학교 멋쟁이사자팀 </h2>  
